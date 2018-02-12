@@ -1,13 +1,14 @@
-from googleapiclient.http import MediaIoBaseDownload
-import os
-import io
-import httplib2
 from apiclient import discovery
+from googleapiclient.http import MediaIoBaseDownload
 from oauth2client.file import Storage
-import sys
-import hashlib
+import boto3
 import csv
+import hashlib
+import httplib2
+import io
 import json
+import os
+import sys
 
 def initGoogleDriveService():
     store = Storage("./credentials.json")
@@ -88,7 +89,6 @@ def downloadImageFile(drive_service, file_id):
         status, done = downloader.next_chunk()
     return fh
 
-import boto3
 s3 = boto3.resource('s3')
 bucketName = "swm-images"
 bucket = s3.Bucket(bucketName)

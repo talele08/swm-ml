@@ -1,4 +1,4 @@
-# Machine Learning for Strategic Waste Management
+# Machine Learning for Solid Waste Management
 
 Install Anaconda Python 3 -> https://www.anaconda.com/download
 
