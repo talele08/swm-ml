@@ -7,6 +7,7 @@ Install Anaconda Python 3:
 Install Needed Extra Libraries:
 - `pip install --upgrade google-api-python-client`
 - `pip install boto3`
+- `pip install awscli --upgrade --user`
 
 Make sure your AWS credentials are setup:
 

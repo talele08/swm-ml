@@ -1,0 +1,21 @@
+#!/bin/bash
+
+if [ "$#" -ne 1 ]; then
+    echo "Usage: package-dataset output-folder-path"
+    exit 1
+fi
+
+OUTPUT_DIR="$1"
+if [[ -d $OUTPUT_DIR ]]; then
+    OUTPUT_DIR="$( cd "$( "$OUTPUT_DIR" )" && pwd )"
+    mkdir -p ~/swm-ml-dataset
+    echo "Syncing data from s3"
+    aws s3 sync s3://swm-images ~/swm-ml-dataset --delete
+    cd ~
+    echo "Packaging dataset as $OUTPUT_DIR/swm-dataset.tar.gz"
+    tar -zcvf "$OUTPUT_DIR/swm-dataset.tar.gz" ./swm-ml-dataset
+    echo "Packaging complete!"
+else
+    echo "$OUTPUT_DIR does not exist!"
+    exit 1
+fi

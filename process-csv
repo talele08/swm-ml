@@ -1,2 +1,2 @@
 #!/bin/bash
-python process-csv.py "$@"
+python src/process-csv.py "$@"
