@@ -16,18 +16,40 @@ def initGoogleDriveService():
     service = discovery.build('drive', 'v3', http=credentials.authorize(httplib2.Http()))
     return service
 
-if len(sys.argv) != 2:
-    print("Usage: process-csv csv-file-path")
+def printUsageAndExit():
+    print("Usage: process-csv [-f] csv-file-path")
     sys.exit(1)
 
-csvFilePath = sys.argv[1]
-print("Will process csv file %s" % csvFilePath)
+if len(sys.argv) not in [2, 3]:
+    printUsageAndExit()
 
+if len(sys.argv) == 3 and sys.argv[1] != "-f":
+    printUsageAndExit()
+
+if len(sys.argv) == 2:
+    csvFilePath = sys.argv[1]
+    forceReload = False
+else:
+    csvFilePath = sys.argv[2]
+    forceReload = True
+
+print("Will process csv file %s" % csvFilePath)
 service = initGoogleDriveService()
 
-print("Loading all folder locations from Google Drive ...")
-allFolders = service.files().list(q="mimeType='application/vnd.google-apps.folder'").execute()['files']
-print("Finished loading locations")
+if not os.path.exists(".cache"):
+    os.makedirs(".cache")
+
+allFoldersJsonFile = ".cache/all-folders.json"
+if not forceReload and os.path.isfile(allFoldersJsonFile):
+    print("Using cached copy of all folders, use -f to force reload from Google drive")
+    with open(allFoldersJsonFile, 'r') as infile:
+        allFolders = json.load(infile)   
+else:
+    print("Loading all folder locations from Google Drive ...")
+    allFolders = service.files().list(q="mimeType='application/vnd.google-apps.folder'").execute()['files']
+    with open(allFoldersJsonFile, 'w') as outfile:
+        json.dump(allFolders, outfile)
+    print("Finished loading locations")
 
 def getParent(service, fileId):
     try:
@@ -37,14 +59,27 @@ def getParent(service, fileId):
     except KeyError:
         return None
 
-print("Building file id to parent map ...")
-parentByFileId = {}
-folderNameByFileId = {}
-for folder in allFolders:
-    fileId = folder['id']
-    folderNameByFileId[fileId] = folder['name']
-    parentByFileId[fileId] = getParent(service, fileId)
-print("Finished building parent map")
+parentIdMapJsonFile = ".cache/parent-id-map.json"
+folderNameMapJsonFile = ".cache/folder-name-map.json"
+if not forceReload and os.path.isfile(parentIdMapJsonFile) and os.path.isfile(folderNameMapJsonFile):
+    print("Using cached file id maps, use -f to force reload from Google drive")
+    with open(parentIdMapJsonFile, 'r') as infile:
+        parentByFileId = json.load(infile)
+    with open(folderNameMapJsonFile, 'r') as infile:
+        folderNameByFileId = json.load(infile)
+else:
+    print("Building file id maps ...")
+    parentByFileId = {}
+    folderNameByFileId = {}
+    for folder in allFolders:
+        fileId = folder['id']
+        folderNameByFileId[fileId] = folder['name']
+        parentByFileId[fileId] = getParent(service, fileId)
+    with open(parentIdMapJsonFile, 'w') as outfile:
+        json.dump(parentByFileId, outfile)
+    with open(folderNameMapJsonFile, 'w') as outfile:
+        json.dump(folderNameByFileId, outfile)
+    print("Finished building maps")
 
 def findRootFileId(parentByFileId):
     result = [fileId for fileId, parentId in parentByFileId.items() if parentId is None]
@@ -140,16 +175,16 @@ def processRow(service, filePath, row):
     fileId = imagePathToFileId(parentFolderName, imageFileName)
     imagePath = "/%s/%s/%s" % (prefix, parentFolderName, imageFileName)
     if jsonFileExists(fileId):
-        print("Skipping %s since it was already processed" % imagePath)
+        print("\nSkipping %s\n" % imagePath)
     else:
-        print("Downloading %s" % imagePath)
+        print("\nDownloading %s" % imagePath)
         imageFileHandle = downloadImageFile(service, fileId)
         imageBytes = imageFileHandle.getvalue()
         imageHash = imageBytesToHash(imageBytes)
         uploadImageFile(imageHash, imageBytes)
         jsonContents = rowToJson(row, fileId, filePath, imageHash, imagePath)
         uploadJsonFile(fileId, jsonContents)
-    print("Finished Processing %s" % imagePath)
+        print("Finished Processing %s" % imagePath)
 
 def processSpreadSheet(service, filePath):
     print("Processing %s" % filePath)
