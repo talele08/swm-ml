@@ -1,6 +1,9 @@
 # Machine Learning for Strategic Waste Management
 
-FIXME: Placeholder will fill info later.
+Install Anaconda Python 3 -> https://www.anaconda.com/download
+
+1. Export the Google Drive Spreadsheet as a csv file
+2. Run `./process-csv csv-file-name`
 
 ## Authors
 
