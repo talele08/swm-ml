@@ -26,6 +26,7 @@ Set the default region in `~/.aws/config`:
 
 1. Export the Google Drive Spreadsheet as a csv file
 2. Run `./process-csv csv-file-name`
+3. Run `./package-dataset output-folder-path`
 
 ## Authors
 
