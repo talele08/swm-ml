@@ -1,0 +1,3 @@
+#!/bin/bash
+
+sudo docker run -ti -v ~/swm-ml-dataset:/workspace/swm-ml-dataset -v $(pwd):/workspace/swm-ml  bvlc/caffe:cpu "/bin/bash"
