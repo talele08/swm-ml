@@ -1,0 +1,431 @@
+Serial No,Primary,Secondary,Tertiary,Source,Photographer,Receptacle,Lining,Image Name
+1,Dry,Reject,Wet,House,Manoj,Bin,Plastic,IMG_20180126_094304321.jpg
+2,Dry,Reject,Wet,House,Manoj,Bin,Plastic,IMG_20180126_094308239.jpg
+3,Dry,Reject,Wet,House,Manoj,Bin,Plastic,IMG_20180126_094311695.jpg
+4,Wet,NA,Dry,Road Side,Manoj,None,None,IMG_20180128_092841548.jpg
+5,Wet,NA,Dry,Road Side,Manoj,None,None,IMG_20180128_092855112.jpg
+6,Wet,NA,Dry,Road Side,Manoj,None,None,IMG_20180128_092902246.jpg
+7,Dry,NA,Wet,House,Manoj,Bin,Plastic,IMG_20180128_092914074.jpg
+8,Dry,NA,Wet,House,Manoj,Bin,Plastic,IMG_20180128_092916743.jpg
+9,Dry,NA,Wet,House,Manoj,Bin,Plastic,IMG_20180128_092918986.jpg
+10,Wet,NA,Dry,Road Side,Manoj,None,None,IMG_20180128_092924738.jpg
+11,Wet,NA,Dry,Road Side,Manoj,None,None,IMG_20180128_092927341.jpg
+12,Wet,Garden,Dry,Road Side,Manoj,None,None,IMG_20180128_092945572.jpg
+13,Wet,Garden,Dry,Road Side,Manoj,None,None,IMG_20180128_092949647.jpg
+14,Wet,NA,Dry,Road Side,Manoj,None,None,IMG_20180128_092953081.jpg
+15,Wet,Dry,Garden,Collection Vehicle,Manoj,None,None,IMG_20180128_092956141.jpg
+16,Wet,Dry,Garden,Collection Vehicle,Manoj,None,None,IMG_20180128_092957774.jpg
+17,Wet,Dry,Garden,Collection Vehicle,Manoj,None,None,IMG_20180128_092959476.jpg
+18,Wet,Dry,Garden,Collection Vehicle,Manoj,None,None,IMG_20180128_093002174.jpg
+19,Wet,Dry,Garden,Collection Vehicle,Manoj,None,None,IMG_20180128_093003972.jpg
+20,Dry,NA,Wet,Collection Vehicle,Manoj,None,None,IMG_20180128_093016902.jpg
+21,Dry,NA,Wet,Collection Vehicle,Manoj,None,None,IMG_20180128_093018335.jpg
+22,Dry,NA,Wet,Collection Vehicle,Manoj,None,None,IMG_20180128_093020264.jpg
+23,Dry,NA,Wet,Collection Vehicle,Manoj,None,None,IMG_20180128_093029056_HDR.jpg
+24,Dry,NA,Wet,Collection Vehicle,Manoj,None,None,IMG_20180128_093032061.jpg
+25,Dry,NA,Wet,Collection Vehicle,Manoj,None,None,IMG_20180128_093034057.jpg
+26,Wet,NA,Dry,Road Side,Manoj,None,None,IMG_20180128_093041590.jpg
+27,Wet,NA,Dry,Road Side,Manoj,None,None,IMG_20180128_093043496.jpg
+28,Wet,NA,Dry,Road Side,Manoj,None,None,IMG_20180128_093045589.jpg
+29,Wet,NA,Dry,Road Side,Manoj,None,None,IMG_20180128_093048089.jpg
+30,Wet,NA,Dry,Road Side,Manoj,None,None,IMG_20180128_093049930.jpg
+31,Wet,NA,Dry,Road Side,Manoj,None,None,IMG_20180128_093051533.jpg
+32,Wet,NA,Dry,Road Side,Manoj,None,None,IMG_20180128_093053346.jpg
+33,Wet,NA,Dry,Road Side,Manoj,None,None,IMG_20180128_093054793.jpg
+34,Wet,NA,NA,House,Manoj,None,Plastic,IMG_20180128_093121818.jpg
+35,Wet,NA,NA,House,Manoj,None,Plastic,IMG_20180128_093123751.jpg
+36,Wet,NA,NA,House,Manoj,None,Plastic,IMG_20180128_093127191_HDR.jpg
+37,Wet,NA,NA,House,Manoj,None,Plastic,IMG_20180128_093128326.jpg
+38,Wet,NA,Dry,Collection Vehicle,Manoj,None,None,IMG_20180128_093148423.jpg
+39,Wet,NA,Dry,Collection Vehicle,Manoj,None,None,IMG_20180128_093150332.jpg
+40,Wet,NA,Dry,Collection Vehicle,Manoj,None,None,IMG_20180128_093153664.jpg
+41,Dry,NA,Wet,Collection Vehicle,Manoj,None,None,IMG_20180128_093203567.jpg
+42,Garden,Wet,NA,Road Side,Manoj,None,Plastic,IMG_20180128_093233855.jpg
+43,Garden,Wet,Dry,Road Side,Manoj,None,Plastic,IMG_20180128_093311191.jpg
+44,Garden,Wet,Dry,Road Side,Manoj,None,Plastic,IMG_20180128_093313489.jpg
+45,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180129_081405452.jpg
+46,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180129_081412151.jpg
+47,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180129_081415235.jpg
+48,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180129_081418389.jpg
+49,Dry,NA,NA,House,Manoj,Bin,Plastic,IMG_20180129_081423031.jpg
+50,Dry,NA,Reject,House,Manoj,Bin,Plastic,IMG_20180129_081426661.jpg
+51,Dry,NA,NA,House,Manoj,Bin,Plastic,IMG_20180129_081431239.jpg
+52,Dry,NA,Reject,House,Manoj,Bin,Plastic,IMG_20180129_081435229.jpg
+53,Wet,Dry,NA,House,Manoj,Bin,Plastic,IMG_20180129_164146259.jpg
+54,Wet,Dry,NA,House,Manoj,Bin,Plastic,IMG_20180129_164149855.jpg
+55,Wet,Dry,NA,House,Manoj,Bin,Plastic,IMG_20180129_164152614.jpg
+56,Dry,NA,Reject,House,Manoj,Bin,Plastic,IMG_20180129_164159128.jpg
+57,Dry,NA,NA,House,Manoj,Bin,Plastic,IMG_20180129_164204733.jpg
+58,Dry,NA,Reject,House,Manoj,Bin,Plastic,IMG_20180129_164210753.jpg
+59,Wet,Dry,NA,House,Manoj,Bin,Plastic,IMG_20180129_182838161.jpg
+60,Wet,Dry,Reject,House,Manoj,Bin,Plastic,IMG_20180129_182841920.jpg
+61,Wet,NA,Dry,House,Manoj,Bin,Plastic,IMG_20180130_100205701_HDR.jpg
+62,Wet,NA,Dry,House,Manoj,Bin,Plastic,IMG_20180130_100211998.jpg
+63,Wet,NA,Dry,House,Manoj,Bin,Plastic,IMG_20180130_100215453.jpg
+64,Wet,NA,Dry,House,Manoj,Bin,Plastic,IMG_20180130_100219779.jpg
+65,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180130_100243619.jpg
+66,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180130_100246101.jpg
+67,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180130_100251440.jpg
+68,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180130_100254970.jpg
+69,Dry,NA,Reject,House,Manoj,Bin,None,IMG_20180130_100303650.jpg
+70,Dry,NA,Reject,House,Manoj,Bin,None,IMG_20180130_100307180.jpg
+71,Dry,NA,Reject,House,Manoj,Bin,None,IMG_20180130_100311034.jpg
+72,Dry,NA,NA,House,Manoj,Bin,Plastic,IMG_20180130_224718996.jpg
+73,Dry,NA,NA,House,Manoj,Bin,Plastic,IMG_20180130_224721528.jpg
+74,Wet,Dry,NA,House,Manoj,Bin,Plastic,IMG_20180130_224731926.jpg
+75,Dry,NA,Wet,House,Manoj,Bin,Plastic,IMG_20180131_205903610.jpg
+76,Dry,NA,Reject,House,Manoj,Bin,Plastic,IMG_20180131_205906286.jpg
+77,Dry,NA,Wet,House,Manoj,Bin,Plastic,IMG_20180131_205909025.jpg
+78,Dry,NA,Reject,House,Manoj,Bin,Plastic,IMG_20180131_205911625.jpg
+79,Wet,NA,Reject,House,Manoj,Bin,Plastic,IMG_20180131_223152464.jpg
+80,Wet,NA,Reject,House,Manoj,Bin,Plastic,IMG_20180131_223155868.jpg
+81,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180131_223158907.jpg
+82,Dry,NA,NA,House,Manoj,Bin,Plastic,IMG_20180131_223204279.jpg
+83,Dry,NA,Reject,House,Manoj,Bin,Plastic,IMG_20180131_223206734.jpg
+84,Dry,NA,Reject,House,Manoj,Bin,Plastic,IMG_20180131_223209364.jpg
+85,Dry,NA,Reject,House,Manoj,Bin,Plastic,IMG_20180201_183046128.jpg
+86,Dry,NA,Reject,House,Manoj,Bin,Plastic,IMG_20180201_183049070.jpg
+87,Dry,NA,Reject,House,Manoj,Bin,Plastic,IMG_20180201_183052191.jpg
+88,Dry,NA,Reject,House,Manoj,Bin,Plastic,IMG_20180201_183055305.jpg
+89,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180201_183100402.jpg
+90,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180201_183104767.jpg
+91,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180201_183107694.jpg
+92,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180201_183111117.jpg
+93,Dry,NA,Reject,House,Manoj,Bin,Plastic,IMG_20180201_231643998.jpg
+94,Dry,NA,Reject,House,Manoj,Bin,Plastic,IMG_20180201_231647452.jpg
+95,Dry,NA,Wet,House,Manoj,Bin,Plastic,IMG_20180201_231649910.jpg
+96,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180201_231703184.jpg
+97,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180201_231705881.jpg
+98,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180201_231708536.jpg
+99,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180201_231710692.jpg
+100,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180202_075919699.jpg
+101,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180202_075922977.jpg
+102,Wet,NA,Reject,House,Manoj,Bin,Plastic,IMG_20180202_075925972.jpg
+103,Wet,NA,Reject,House,Manoj,Bin,Plastic,IMG_20180202_075928719.jpg
+104,Wet,NA,Reject,House,Manoj,Bin,Plastic,IMG_20180202_075932110.jpg
+105,Dry,NA,Reject,House,Manoj,Bin,Plastic,IMG_20180202_075937332.jpg
+106,Dry,NA,Reject,House,Manoj,Bin,Plastic,IMG_20180202_075943453.jpg
+107,Dry,NA,Reject,House,Manoj,Bin,Plastic,IMG_20180202_075945516.jpg
+108,Dry,NA,Reject,House,Manoj,Bin,Plastic,IMG_20180202_075949244.jpg
+109,Dry,NA,NA,House,Manoj,Bin,Plastic,IMG_20180202_075955159.jpg
+110,Wet,Garden,NA,House,Manoj,Bin,Plastic,IMG_20180204_085554363_HDR.jpg
+111,Wet,Garden,NA,House,Manoj,Bin,Plastic,IMG_20180204_085559095.jpg
+112,Wet,Garden,NA,House,Manoj,Bin,Plastic,IMG_20180204_085601614.jpg
+113,Wet,Garden,NA,House,Manoj,Bin,Plastic,IMG_20180204_085606411.jpg
+114,Wet,Garden,NA,House,Manoj,Bin,Plastic,IMG_20180204_085609068.jpg
+115,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180204_085619865.jpg
+116,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180204_085623729.jpg
+117,Wet,Dry,NA,House,Manoj,Bin,Plastic,IMG_20180204_085636285.jpg
+118,Wet,Dry,NA,House,Manoj,Bin,Plastic,IMG_20180204_085637109.jpg
+119,Wet,Dry,Reject,House,Manoj,Bin,Plastic,IMG_20180204_085639845.jpg
+120,Wet,Dry,Reject,House,Manoj,Bin,Plastic,IMG_20180204_085643620.jpg
+121,Dry,NA,NA,House,Manoj,Bin,Plastic,IMG_20180204_085648287.jpg
+122,Dry,NA,Wet,House,Manoj,Bin,Plastic,IMG_20180204_085657658.jpg
+123,Dry,NA,Wet,House,Manoj,Bin,Plastic,IMG_20180204_085702215.jpg
+124,Dry,NA,NA,House,Manoj,Bin,Plastic,IMG_20180205_154203771.jpg
+125,Dry,NA,NA,House,Manoj,Bin,Plastic,IMG_20180205_154208185.jpg
+126,Dry,NA,Reject,House,Manoj,Bin,Plastic,IMG_20180205_154210578.jpg
+127,Dry,NA,Reject,House,Manoj,Bin,Plastic,IMG_20180205_154213035.jpg
+128,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180205_154219418.jpg
+129,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180205_154221860.jpg
+130,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180205_154224185.jpg
+131,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180205_154227735.jpg
+132,Dry,NA,Reject,House,Manoj,Bin,Plastic,IMG_20180205_222709740.jpg
+133,Dry,NA,Reject,House,Manoj,Bin,Plastic,IMG_20180205_222713017.jpg
+134,Dry,NA,Reject,House,Manoj,Bin,Plastic,IMG_20180205_222715832.jpg
+135,Dry,NA,Reject,House,Manoj,Bin,Plastic,IMG_20180205_222718125.jpg
+136,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180205_222730788.jpg
+137,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180205_222733939.jpg
+138,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180205_222736601.jpg
+139,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180205_222739590.jpg
+140,Dry,NA,Reject,House,Manoj,Bin,Plastic,IMG_20180205_222745449.jpg
+141,Dry,NA,Reject,House,Manoj,Bin,Plastic,IMG_20180205_222748573.jpg
+142,Dry,NA,Reject,House,Manoj,Bin,Plastic,IMG_20180205_222751333.jpg
+143,Dry,NA,Reject,House,Manoj,Bin,Plastic,IMG_20180205_222754017.jpg
+144,Dry,NA,NA,House,Manoj,Bin,Plastic,IMG_20180205_222800698.jpg
+145,Wet,NA,Dry,House,Manoj,Bin,Plastic,IMG_20180205_230400277.jpg
+146,Wet,NA,Dry,House,Manoj,Bin,Plastic,IMG_20180205_230402295.jpg
+147,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180205_230406759.jpg
+148,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180205_230409682.jpg
+149,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180205_230414072.jpg
+150,Dry,NA,NA,House,Manoj,Bin,Plastic,IMG_20180205_230430220.jpg
+151,Dry,NA,NA,House,Manoj,Bin,Plastic,IMG_20180205_230433609.jpg
+152,Dry,NA,NA,House,Manoj,Bin,Plastic,IMG_20180205_230437760.jpg
+153,Dry,NA,NA,House,Manoj,Bin,Plastic,IMG_20180205_230442383.jpg
+154,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180206_081542061.jpg
+155,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180206_081544078.jpg
+156,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180206_081546134.jpg
+157,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180206_081548447.jpg
+158,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180206_081551666.jpg
+159,Dry,NA,NA,House,Manoj,Bin,Plastic,IMG_20180206_081556510.jpg
+160,Dry,NA,NA,House,Manoj,Bin,Plastic,IMG_20180206_081559062.jpg
+161,Dry,NA,NA,House,Manoj,Bin,Plastic,IMG_20180206_081601481.jpg
+162,Dry,NA,NA,House,Manoj,Bin,Plastic,IMG_20180206_081604201.jpg
+163,Dry,NA,NA,House,Manoj,Bin,Plastic,IMG_20180206_081606611.jpg
+164,Wet,NA,Reject,House,Manoj,Bin,Plastic,IMG_20180206_201722325.jpg
+165,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180206_201725471.jpg
+166,Wet,NA,Reject,House,Manoj,Bin,Plastic,IMG_20180206_201727138.jpg
+167,Wet,NA,Reject,House,Manoj,Bin,Plastic,IMG_20180206_201730599.jpg
+168,Dry,NA,Wet,House,Manoj,Bin,Plastic,IMG_20180206_201734680.jpg
+169,Dry,NA,Wet,House,Manoj,Bin,Plastic,IMG_20180206_201737332.jpg
+170,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180206_211318015.jpg
+171,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180206_211321724.jpg
+172,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180206_211326074.jpg
+173,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180207_083132933.jpg
+174,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180207_083136353.jpg
+175,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180207_083139870.jpg
+176,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180207_083142087.jpg
+177,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180207_083144472.jpg
+178,Dry,NA,NA,House,Manoj,Bin,Plastic,IMG_20180207_083152972.jpg
+179,Dry,NA,NA,House,Manoj,Bin,Plastic,IMG_20180207_083155083.jpg
+180,Dry,NA,NA,House,Manoj,Bin,Plastic,IMG_20180207_083158237.jpg
+181,Wet,Garden,Dry,Collection Vehicle,Manoj,None,None,IMG_20180207_092455087.jpg
+182,Wet,Garden,Dry,Collection Vehicle,Manoj,None,None,IMG_20180207_092457246.jpg
+183,Wet,Garden,Dry,Collection Vehicle,Manoj,None,None,IMG_20180207_092458613.jpg
+184,Wet,Garden,Dry,Collection Vehicle,Manoj,None,None,IMG_20180207_092459911.jpg
+185,Wet,Garden,Dry,Collection Vehicle,Manoj,None,None,IMG_20180207_092501212.jpg
+186,Wet,Reject,Garden,Collection Vehicle,Manoj,None,None,IMG_20180207_092502712.jpg
+187,Wet,Garden,Dry,Collection Vehicle,Manoj,None,None,IMG_20180207_092504019.jpg
+188,Wet,Garden,Dry,Collection Vehicle,Manoj,None,None,IMG_20180207_092505253.jpg
+189,Wet,Garden,Dry,Collection Vehicle,Manoj,None,None,IMG_20180207_092506703_BURST000_COVER.jpg
+190,Wet,Garden,Dry,Collection Vehicle,Manoj,None,None,IMG_20180207_092506703_BURST001.jpg
+191,Wet,Garden,Dry,Collection Vehicle,Manoj,None,None,IMG_20180207_092506703_BURST002.jpg
+192,Wet,Garden,Dry,Collection Vehicle,Manoj,None,None,IMG_20180207_092506703_BURST003.jpg
+193,Wet,Garden,Dry,Collection Vehicle,Manoj,None,None,IMG_20180207_092506703_BURST004.jpg
+194,Wet,Garden,Dry,Collection Vehicle,Manoj,None,None,IMG_20180207_092506703_BURST005.jpg
+195,Wet,Garden,Dry,Collection Vehicle,Manoj,None,None,IMG_20180207_092506703_BURST006.jpg
+196,Wet,Garden,Dry,Collection Vehicle,Manoj,None,None,IMG_20180207_092506703_BURST007.jpg
+197,Wet,Garden,Dry,Collection Vehicle,Manoj,None,None,IMG_20180207_092506703_BURST008.jpg
+198,Wet,Garden,Dry,Collection Vehicle,Manoj,None,None,IMG_20180207_092506703_BURST009.jpg
+199,Wet,Garden,Dry,Collection Vehicle,Manoj,None,None,IMG_20180207_092506703_BURST010.jpg
+200,Wet,Garden,Dry,Collection Vehicle,Manoj,None,None,IMG_20180207_092506703_BURST011.jpg
+201,Wet,Garden,Dry,Collection Vehicle,Manoj,None,None,IMG_20180207_092506703_BURST012.jpg
+202,Wet,Garden,Dry,Collection Vehicle,Manoj,None,None,IMG_20180207_092506703_BURST013.jpg
+203,Wet,Garden,Dry,Collection Vehicle,Manoj,None,None,IMG_20180207_092506703_BURST014.jpg
+204,Wet,Garden,Dry,Collection Vehicle,Manoj,None,None,IMG_20180207_092506703_BURST015.jpg
+205,Wet,Garden,Dry,Collection Vehicle,Manoj,None,None,IMG_20180207_092506703_BURST016.jpg
+206,Wet,Garden,Dry,Collection Vehicle,Manoj,None,None,IMG_20180207_092506703_BURST017.jpg
+207,Wet,Garden,Dry,Collection Vehicle,Manoj,None,None,IMG_20180207_092506703_BURST018.jpg
+208,Wet,Garden,Dry,Collection Vehicle,Manoj,None,None,IMG_20180207_092506703_BURST019.jpg
+209,Wet,Garden,Dry,Collection Vehicle,Manoj,None,None,IMG_20180207_092506703_BURST020.jpg
+210,Wet,Garden,Dry,Collection Vehicle,Manoj,None,None,IMG_20180207_092506703_BURST021.jpg
+211,Wet,Garden,Dry,Collection Vehicle,Manoj,None,None,IMG_20180207_092506703_BURST022.jpg
+212,Dry,Garden,Wet,Collection Vehicle,Manoj,None,None,IMG_20180207_092519642_BURST000_COVER.jpg
+213,Dry,Garden,Wet,Collection Vehicle,Manoj,None,None,IMG_20180207_092519642_BURST001.jpg
+214,Dry,Garden,Wet,Collection Vehicle,Manoj,None,None,IMG_20180207_092519642_BURST002.jpg
+215,Dry,Garden,Wet,Collection Vehicle,Manoj,None,None,IMG_20180207_092519642_BURST003.jpg
+216,Dry,Garden,Wet,Collection Vehicle,Manoj,None,None,IMG_20180207_092519642_BURST004.jpg
+217,Dry,Garden,Wet,Collection Vehicle,Manoj,None,None,IMG_20180207_092519642_BURST005.jpg
+218,Dry,Garden,Wet,Collection Vehicle,Manoj,None,None,IMG_20180207_092519642_BURST006.jpg
+219,Dry,Garden,Wet,Collection Vehicle,Manoj,None,None,IMG_20180207_092519642_BURST007.jpg
+220,Dry,Garden,Wet,Collection Vehicle,Manoj,None,None,IMG_20180207_092519642_BURST008.jpg
+221,Dry,Garden,Wet,Collection Vehicle,Manoj,None,None,IMG_20180207_092519642_BURST009.jpg
+222,Dry,Garden,Wet,Collection Vehicle,Manoj,None,None,IMG_20180207_092519642_BURST010.jpg
+223,Dry,Garden,Wet,Collection Vehicle,Manoj,None,None,IMG_20180207_092519642_BURST011.jpg
+224,Dry,Garden,Wet,Collection Vehicle,Manoj,None,None,IMG_20180207_092519642_BURST012.jpg
+225,Dry,Garden,Wet,Collection Vehicle,Manoj,None,None,IMG_20180207_092519642_BURST013.jpg
+226,Dry,Garden,Wet,Collection Vehicle,Manoj,None,None,IMG_20180207_092519642_BURST014.jpg
+227,Dry,Garden,Wet,Collection Vehicle,Manoj,None,None,IMG_20180207_092519642_BURST015.jpg
+228,Dry,Garden,Wet,Collection Vehicle,Manoj,None,None,IMG_20180207_092519642_BURST016.jpg
+229,Dry,Garden,Wet,Collection Vehicle,Manoj,None,None,IMG_20180207_092519642_BURST017.jpg
+230,Dry,Garden,Wet,Collection Vehicle,Manoj,None,None,IMG_20180207_092519642_BURST018.jpg
+231,Dry,Garden,Wet,Collection Vehicle,Manoj,None,None,IMG_20180207_092519642_BURST019.jpg
+232,Dry,Garden,Wet,Collection Vehicle,Manoj,None,None,IMG_20180207_092519642_BURST020.jpg
+233,Dry,Garden,Wet,Collection Vehicle,Manoj,None,None,IMG_20180207_092519642_BURST021.jpg
+234,Dry,Garden,Wet,Collection Vehicle,Manoj,None,None,IMG_20180207_092519642_BURST022.jpg
+235,Dry,Garden,Wet,Collection Vehicle,Manoj,None,None,IMG_20180207_092519642_BURST023.jpg
+236,Dry,Garden,Wet,Collection Vehicle,Manoj,None,None,IMG_20180207_092519642_BURST024.jpg
+237,Dry,Garden,Wet,Collection Vehicle,Manoj,None,None,IMG_20180207_092519642_BURST025.jpg
+238,Dry,Garden,Wet,Collection Vehicle,Manoj,None,None,IMG_20180207_092519642_BURST026.jpg
+239,Dry,Garden,Wet,Collection Vehicle,Manoj,None,None,IMG_20180207_092519642_BURST027.jpg
+240,Dry,Garden,Wet,Collection Vehicle,Manoj,None,None,IMG_20180207_092519642_BURST028.jpg
+241,Dry,Garden,Wet,Collection Vehicle,Manoj,None,None,IMG_20180207_092519642_BURST029.jpg
+242,Dry,Garden,Wet,Collection Vehicle,Manoj,None,None,IMG_20180207_092519642_BURST030.jpg
+243,Dry,Garden,Wet,Collection Vehicle,Manoj,None,None,IMG_20180207_092519642_BURST031.jpg
+244,Dry,Garden,Wet,Collection Vehicle,Manoj,None,None,IMG_20180207_092519642_BURST032.jpg
+245,Dry,Garden,Wet,Collection Vehicle,Manoj,None,None,IMG_20180207_092519642_BURST033.jpg
+246,Dry,NA,Garden,Collection Vehicle,Manoj,None,None,IMG_20180207_092519642_BURST034.jpg
+247,Dry,NA,Garden,Collection Vehicle,Manoj,None,None,IMG_20180207_092519642_BURST035.jpg
+248,Dry,NA,Garden,Collection Vehicle,Manoj,None,None,IMG_20180207_092519642_BURST036.jpg
+249,Dry,NA,Garden,Collection Vehicle,Manoj,None,None,IMG_20180207_092519642_BURST037.jpg
+250,Dry,Garden,Wet,Collection Vehicle,Manoj,None,None,IMG_20180207_092519642_BURST038.jpg
+251,Dry,Garden,Wet,Collection Vehicle,Manoj,None,None,IMG_20180207_092519642_BURST039.jpg
+252,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180207_204212359.jpg
+253,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180207_204215104.jpg
+254,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180207_204217909.jpg
+255,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180207_204220305.jpg
+256,Wet,NA,Garden,House,Manoj,Bin,Plastic,IMG_20180207_204226091.jpg
+257,Wet,Garden,Reject,House,Manoj,Bin,Plastic,IMG_20180207_204232230.jpg
+258,Wet,Garden,Reject,House,Manoj,Bin,Plastic,IMG_20180207_204234582.jpg
+259,Wet,Garden,Reject,House,Manoj,Bin,Plastic,IMG_20180207_204236763.jpg
+260,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180208_082828500.jpg
+261,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180208_082832767.jpg
+262,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180208_082835708.jpg
+263,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180208_082837152.jpg
+264,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180208_082843244.jpg
+265,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180208_082844470.jpg
+266,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180208_082846564.jpg
+267,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180208_082848792.jpg
+268,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180208_082908553.jpg
+269,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180208_082910358.jpg
+270,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180208_082916811.jpg
+271,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180208_082919511.jpg
+272,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180208_082922280.jpg
+273,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180208_082924942.jpg
+274,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180208_082927549.jpg
+275,Dry,NA,NA,House,Manoj,Bin,Plastic,IMG_20180208_082930365.jpg
+276,Dry,NA,NA,House,Manoj,Bin,Plastic,IMG_20180208_082948915.jpg
+277,Dry,NA,NA,House,Manoj,Bin,Plastic,IMG_20180208_082952253.jpg
+278,Garden,NA,Wet,House,Manoj,Bin,Plastic,IMG_20180208_083013796.jpg
+279,Garden,NA,Wet,House,Manoj,Bin,Plastic,IMG_20180208_083015976.jpg
+280,Garden,NA,Wet,House,Manoj,Bin,Plastic,IMG_20180208_083018568.jpg
+281,Garden,NA,Wet,House,Manoj,Bin,Plastic,IMG_20180208_083020080.jpg
+282,Garden,NA,Wet,House,Manoj,Bin,Plastic,IMG_20180208_083023507.jpg
+283,Garden,NA,Wet,House,Manoj,Bin,Plastic,IMG_20180208_083026867.jpg
+284,Garden,NA,Wet,House,Manoj,Bin,Plastic,IMG_20180208_083028023.jpg
+285,Garden,NA,Wet,House,Manoj,Bin,Plastic,IMG_20180208_083030091.jpg
+286,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180208_225512223.jpg
+287,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180208_225513971.jpg
+288,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180208_225520983.jpg
+289,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180208_225523977.jpg
+290,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180208_225525295.jpg
+291,Dry,NA,Wet,House,Manoj,Bin,Plastic,IMG_20180208_225534879.jpg
+292,Dry,NA,Wet,House,Manoj,Bin,Plastic,IMG_20180208_225537360.jpg
+293,Dry,NA,Wet,House,Manoj,Bin,Plastic,IMG_20180208_225542539.jpg
+294,Dry,NA,Wet,House,Manoj,Bin,Plastic,IMG_20180208_225544845.jpg
+295,Wet,Garden,Dry,Collection Vehicle,Manoj,None,None,IMG_20180209_101011366_BURST019.jpg
+296,Wet,NA,Dry,Collection Vehicle,Manoj,None,None,IMG_20180209_101517120_BURST007.jpg
+297,Wet,NA,Dry,Collection Vehicle,Manoj,None,None,IMG_20180209_103138429.jpg
+298,Wet,Garden,Dry,Collection Vehicle,Manoj,None,None,IMG_20180209_103529213_BURST000_COVER.jpg
+299,Wet,Garden,Dry,Collection Vehicle,Manoj,None,None,IMG_20180209_103529213_BURST001.jpg
+300,Wet,Garden,Dry,Collection Vehicle,Manoj,None,None,IMG_20180209_103529213_BURST002.jpg
+301,Wet,Garden,Dry,Collection Vehicle,Manoj,None,None,IMG_20180209_103529213_BURST003.jpg
+302,Wet,Garden,Dry,Collection Vehicle,Manoj,None,None,IMG_20180209_103529213_BURST004.jpg
+303,Wet,Garden,Dry,Collection Vehicle,Manoj,None,None,IMG_20180209_103529213_BURST005.jpg
+304,Wet,Garden,Dry,Collection Vehicle,Manoj,None,None,IMG_20180209_103534909_BURST000_COVER.jpg
+305,Wet,Garden,Dry,Collection Vehicle,Manoj,None,None,IMG_20180209_103534909_BURST001.jpg
+306,Garden,Wet,Dry,Collection Vehicle,Manoj,None,None,IMG_20180209_103802934_BURST000_COVER.jpg
+307,Garden,Wet,Dry,Collection Vehicle,Manoj,None,None,IMG_20180209_103802934_BURST001.jpg
+308,Garden,Wet,Dry,Collection Vehicle,Manoj,None,None,IMG_20180209_103802934_BURST002.jpg
+309,Garden,Wet,Dry,Collection Vehicle,Manoj,None,None,IMG_20180209_103802934_BURST003.jpg
+310,Garden,Wet,Dry,Collection Vehicle,Manoj,None,None,IMG_20180209_103802934_BURST004.jpg
+311,Garden,Wet,Dry,Collection Vehicle,Manoj,None,None,IMG_20180209_103802934_BURST005.jpg
+312,Garden,Wet,Dry,Collection Vehicle,Manoj,None,None,IMG_20180209_103802934_BURST006.jpg
+313,Wet,Garden,Dry,Collection Vehicle,Manoj,None,None,IMG_20180209_103802934_BURST007.jpg
+314,Wet,Garden,NA,Collection Vehicle,Manoj,None,None,IMG_20180209_103802934_BURST008.jpg
+315,Garden,Wet,Dry,Collection Vehicle,Manoj,None,None,IMG_20180209_103802934_BURST009.jpg
+316,Garden,Wet,Dry,Collection Vehicle,Manoj,None,None,IMG_20180209_103802934_BURST010.jpg
+317,Garden,Wet,Dry,Collection Vehicle,Manoj,None,None,IMG_20180209_103802934_BURST011.jpg
+318,Garden,Wet,Dry,Collection Vehicle,Manoj,None,None,IMG_20180209_103802934_BURST012.jpg
+319,Garden,Wet,Dry,Collection Vehicle,Manoj,None,None,IMG_20180209_103802934_BURST013.jpg
+320,Garden,Wet,Dry,Collection Vehicle,Manoj,None,None,IMG_20180209_103802934_BURST014.jpg
+321,Garden,Wet,Dry,Collection Vehicle,Manoj,None,None,IMG_20180209_103802934_BURST015.jpg
+322,Garden,Wet,Dry,Collection Vehicle,Manoj,None,None,IMG_20180209_103802934_BURST016.jpg
+323,Garden,Wet,Dry,Collection Vehicle,Manoj,None,None,IMG_20180209_103802934_BURST017.jpg
+324,Garden,Wet,Dry,Collection Vehicle,Manoj,None,None,IMG_20180209_103802934_BURST018.jpg
+325,Garden,Wet,Dry,Collection Vehicle,Manoj,None,None,IMG_20180209_103802934_BURST019.jpg
+326,Wet,Garden,Dry,Collection Vehicle,Manoj,None,None,IMG_20180209_103802934_BURST020.jpg
+327,Wet,Garden,Dry,Collection Vehicle,Manoj,None,None,IMG_20180209_103802934_BURST021.jpg
+328,Garden,Wet,Dry,Collection Vehicle,Manoj,None,None,IMG_20180209_103802934_BURST022.jpg
+329,Garden,Wet,Dry,Collection Vehicle,Manoj,None,None,IMG_20180209_103802934_BURST023.jpg
+330,Garden,Wet,Dry,Collection Vehicle,Manoj,None,None,IMG_20180209_103802934_BURST024.jpg
+331,Garden,Wet,Dry,Collection Vehicle,Manoj,None,None,IMG_20180209_103802934_BURST025.jpg
+332,Wet,Garden,Dry,Collection Vehicle,Manoj,None,None,IMG_20180209_104059809.jpg
+333,Wet,Garden,Dry,Collection Vehicle,Manoj,None,None,IMG_20180209_104113389.jpg
+334,Wet,Garden,Dry,Collection Vehicle,Manoj,None,None,IMG_20180209_104116247.jpg
+335,Wet,Garden,Dry,Collection Vehicle,Manoj,None,None,IMG_20180209_104117037.jpg
+336,Wet,Garden,Dry,Collection Vehicle,Manoj,None,None,IMG_20180209_104118346_BURST000_COVER.jpg
+337,Wet,Garden,Dry,Collection Vehicle,Manoj,None,None,IMG_20180209_104118346_BURST001.jpg
+338,Wet,Garden,Dry,Collection Vehicle,Manoj,None,None,IMG_20180209_104118346_BURST002.jpg
+339,Wet,Garden,Dry,Collection Vehicle,Manoj,None,None,IMG_20180209_104118346_BURST003.jpg
+340,Wet,Garden,Dry,Collection Vehicle,Manoj,None,None,IMG_20180209_104118346_BURST004.jpg
+341,Wet,NA,Dry,Collection Vehicle,Manoj,None,None,IMG_20180209_104118346_BURST005.jpg
+342,Wet,NA,Dry,Collection Vehicle,Manoj,None,None,IMG_20180209_104118346_BURST006.jpg
+343,Wet,NA,Dry,Collection Vehicle,Manoj,None,None,IMG_20180209_104118346_BURST007.jpg
+344,Wet,NA,Dry,Collection Vehicle,Manoj,None,None,IMG_20180209_104118346_BURST008.jpg
+345,Wet,NA,Dry,Collection Vehicle,Manoj,None,None,IMG_20180209_104118346_BURST009.jpg
+346,Wet,NA,Dry,Collection Vehicle,Manoj,None,None,IMG_20180209_104118346_BURST010.jpg
+347,Wet,NA,Dry,Collection Vehicle,Manoj,None,None,IMG_20180209_104118346_BURST011.jpg
+348,Wet,NA,Dry,Collection Vehicle,Manoj,None,None,IMG_20180209_104118346_BURST012.jpg
+349,Wet,NA,Dry,Collection Vehicle,Manoj,None,None,IMG_20180209_104118346_BURST013.jpg
+350,Wet,NA,Dry,Collection Vehicle,Manoj,None,None,IMG_20180209_104118346_BURST014.jpg
+351,Wet,NA,Dry,Collection Vehicle,Manoj,None,None,IMG_20180209_104118346_BURST015.jpg
+352,Wet,NA,Dry,Collection Vehicle,Manoj,None,None,IMG_20180209_104118346_BURST016.jpg
+353,Wet,NA,Dry,House,Manoj,Bin,Plastic,IMG_20180124_085746626_HDR.jpg
+354,Wet,NA,Dry,House,Manoj,Bin,Plastic,IMG_20180124_085753240.jpg
+355,Dry,NA,NA,House,Manoj,Bin,Plastic,IMG_20180124_085757849.jpg
+356,Wet,NA,Dry,House,Manoj,Bin,Plastic,IMG_20180124_085802697.jpg
+357,Dry,NA,NA,House,Manoj,Bin,Plastic,IMG_20180124_085817638.jpg
+358,Dry,NA,NA,House,Manoj,Bin,Plastic,IMG_20180124_085822990.jpg
+359,Dry,NA,Wet,Apartment,Manoj,Bin,None,IMG_20180124_165612492.jpg
+360,Dry,NA,Wet,Apartment,Manoj,Bin,None,IMG_20180124_165616434.jpg
+361,Dry,NA,Wet,Apartment,Manoj,Bin,None,IMG_20180124_165619418.jpg
+362,Dry,NA,NA,Apartment,Manoj,Basket,None,IMG_20180124_165628887.jpg
+363,Dry,NA,NA,Apartment,Manoj,Basket,None,IMG_20180124_165631801.jpg
+364,Dry,NA,NA,Apartment,Manoj,Basket,None,IMG_20180124_165633995.jpg
+365,Dry,NA,NA,House,Manoj,Bin,Plastic,IMG_20180125_231420550.jpg
+366,Dry,NA,NA,House,Manoj,Bin,Plastic,IMG_20180125_231423499.jpg
+367,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180209_201351505.jpg
+368,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180209_201353498.jpg
+369,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180209_201356002.jpg
+370,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180209_201357416.jpg
+371,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180209_201400214.jpg
+372,Dry,NA,Wet,House,Manoj,None,Plastic,IMG_20180209_201411958.jpg
+373,Dry,NA,NA,House,Manoj,None,Plastic,IMG_20180209_201413993.jpg
+374,Dry,NA,Wet,House,Manoj,None,Plastic,IMG_20180209_201416484.jpg
+375,Dry,NA,Wet,House,Manoj,None,Plastic,IMG_20180209_201418937.jpg
+376,Dry,NA,Wet,House,Manoj,None,Plastic,IMG_20180209_201421074.jpg
+377,Wet,NA,NA,House,Manoj,None,Plastic,IMG_20180209_205809065.jpg
+378,Wet,NA,NA,House,Manoj,None,Plastic,IMG_20180209_205811023.jpg
+379,Wet,NA,NA,House,Manoj,None,Plastic,IMG_20180209_205813217.jpg
+380,Wet,NA,NA,House,Manoj,None,Plastic,IMG_20180209_205842657.jpg
+381,Wet,NA,NA,House,Manoj,None,Plastic,IMG_20180209_205844542.jpg
+382,Wet,NA,NA,House,Manoj,None,Plastic,IMG_20180209_205848208.jpg
+383,Wet,NA,NA,House,Manoj,None,Plastic,IMG_20180209_205850599.jpg
+384,Wet,NA,NA,House,Manoj,None,Plastic,IMG_20180209_205853329.jpg
+385,Dry,NA,Wet,House,Manoj,None,Plastic,IMG_20180209_205901691.jpg
+386,Dry,NA,Wet,House,Manoj,None,Plastic,IMG_20180209_205904240.jpg
+387,Dry,NA,Wet,House,Manoj,None,Plastic,IMG_20180209_205906526.jpg
+388,Dry,NA,Wet,House,Manoj,None,Plastic,IMG_20180209_205909360.jpg
+389,Wet,NA,NA,House,Manoj,None,Plastic,IMG_20180210_083023981.jpg
+390,Wet,NA,NA,House,Manoj,None,Plastic,IMG_20180210_083025706.jpg
+391,Wet,NA,NA,House,Manoj,None,Plastic,IMG_20180210_083029300.jpg
+392,Wet,NA,NA,House,Manoj,None,Plastic,IMG_20180210_083030104.jpg
+393,Wet,NA,NA,House,Manoj,None,Plastic,IMG_20180210_083032025.jpg
+394,Dry,NA,Wet,House,Manoj,None,Plastic,IMG_20180210_083036685.jpg
+395,Dry,NA,Wet,House,Manoj,None,Plastic,IMG_20180210_083039170.jpg
+396,Dry,NA,Wet,House,Manoj,None,Plastic,IMG_20180210_083041627.jpg
+397,Dry,NA,Wet,House,Manoj,None,Plastic,IMG_20180210_083043686.jpg
+398,Dry,NA,Wet,House,Manoj,None,Plastic,IMG_20180210_083046341.jpg
+399,Wet,NA,NA,House,Manoj,None,Plastic,IMG_20180210_083049673.jpg
+400,Wet,NA,NA,House,Manoj,None,Plastic,IMG_20180210_083051290.jpg
+401,Wet,NA,NA,House,Manoj,None,Plastic,IMG_20180210_083053066.jpg
+402,Wet,NA,NA,House,Manoj,None,Plastic,IMG_20180210_083054693.jpg
+403,Wet,NA,NA,House,Manoj,None,Plastic,IMG_20180210_083102207.jpg
+404,Wet,NA,NA,House,Manoj,None,Plastic,IMG_20180210_083103894.jpg
+405,Wet,NA,Dry,House,Manoj,None,Plastic,IMG_20180210_083105777.jpg
+406,Wet,NA,NA,House,Manoj,None,Plastic,IMG_20180210_083107467.jpg
+407,Wet,NA,NA,House,Manoj,None,Plastic,IMG_20180210_083109217.jpg
+408,Wet,NA,NA,House,Manoj,None,Plastic,IMG_20180210_083110838.jpg
+409,Wet,Dry,Reject,House,Manoj,None,Plastic,IMG_20180211_132537015.jpg
+410,Wet,Dry,Reject,House,Manoj,None,Plastic,IMG_20180211_132538858.jpg
+411,Wet,Dry,Reject,House,Manoj,None,Plastic,IMG_20180211_132540693.jpg
+412,Wet,Dry,Reject,House,Manoj,None,Plastic,IMG_20180211_132542999.jpg
+413,Wet,Dry,Reject,House,Manoj,None,Plastic,IMG_20180211_132544853.jpg
+414,Wet,NA,NA,House,Manoj,None,Plastic,IMG_20180211_132634969.jpg
+415,Wet,NA,NA,House,Manoj,None,Plastic,IMG_20180211_132636811.jpg
+416,Wet,NA,Dry,House,Manoj,None,Plastic,IMG_20180211_132638628.jpg
+417,Wet,NA,NA,House,Manoj,None,Plastic,IMG_20180211_132640400.jpg
+418,Wet,NA,NA,House,Manoj,Bin,Plastic,IMG_20180211_132642142.jpg
+419,Wet,Dry,NA,House,Manoj,Bin,Plastic,IMG_20180211_132805515.jpg
+420,Wet,Dry,NA,House,Manoj,Bin,Plastic,IMG_20180211_132807149.jpg
+421,Wet,Dry,NA,House,Manoj,Bin,Plastic,IMG_20180211_132808858.jpg
+422,Wet,Dry,NA,House,Manoj,Bin,Plastic,IMG_20180211_132810389.jpg
+423,Wet,Dry,NA,House,Manoj,Bin,Plastic,IMG_20180211_132812028.jpg
+424,Wet,Dry,NA,House,Manoj,Bin,Plastic,IMG_20180211_132814989.jpg
+425,Wet,Dry,NA,House,Manoj,Bin,Plastic,IMG_20180211_132824719.jpg
+426,Dry,NA,NA,House,Manoj,Bin,Plastic,IMG_20180211_132836303.jpg
+427,Dry,NA,NA,House,Manoj,None,Plastic,IMG_20180211_132838668.jpg
+428,Dry,NA,NA,House,Manoj,None,Plastic,IMG_20180211_132852205.jpg
+429,Dry,NA,NA,House,Manoj,None,Plastic,IMG_20180211_132854366.jpg
+430,Dry,NA,NA,House,Manoj,None,Plastic,IMG_20180211_132856551.jpg
