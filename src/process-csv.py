@@ -111,7 +111,8 @@ def imagePathToFileId(parentFolder, fileName):
 def imageFileNameToFileId(service, parentFileId, fileName):
     query = "name='%s' and '%s' in parents" % (fileName, parentFileId)
     allFiles = service.files().list(q=query).execute()['files']
-    assert(len(allFiles) == 1)
+    # It is possible to have identical file names in a google drive folder
+    # take only one copy of the file.
     return allFiles[0]['id']
 
 # Copied from https://developers.google.com/drive/v3/web/manage-downloads
