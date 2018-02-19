@@ -73,7 +73,7 @@ def getFeatureVector(imageFile):
 
 app = Flask(__name__)
 
-UPLOAD_FOLDER = '/home/ec2-user/demo-uploads'
+UPLOAD_FOLDER = '/workspace/uploads'
 ALLOWED_EXTENSIONS = set(['jpg', 'jpeg', 'png'])
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 
@@ -119,6 +119,11 @@ def uploaded_file(filename):
     featureVector = list(getFeatureVector(imageFile))
     d = len(featureVector)
     prob = clf.predict_proba(np.array(featureVector).reshape(1, d))[0, 1]
+    cls = "Not Confident Enough to Classify"
+    if (prob < .35):
+        cls = "Poorly Segregated"
+    elif (prob > .75):
+        cls = "Well Segregated"
     return render_template_string('''
     <!doctype html>
     <title>Classify Image</title>
@@ -127,9 +132,9 @@ def uploaded_file(filename):
       <p><input type=file name=file>
          <input type=submit value=Classify>
     </form>
-    <h2>Probability of 90% segregated = {{prob}}</h2>
+    <h2>{{cls}}</h2>
     <img height="600px" src={{url_for('serve_image', filename=filename)}}/>
-    ''', filename=filename, prob=prob)
+    ''', filename=filename, cls=cls)
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', debug = False)
